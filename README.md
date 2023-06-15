@@ -1,1 +1,1 @@
-# Teaching
+# GSU MS CSC
